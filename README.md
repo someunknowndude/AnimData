@@ -3,6 +3,8 @@ universal Client-Server-Client data transfer using AnimationTrack speeds
 
 [Showcase video](https://gyazo.com/56c634d9cc5494cb8596802a4439b3a3)
 
+[Uncopylocked Roblox place](https://www.roblox.com/games/15062388889/Animation-speed-data-transfer)
+
 ## API Reference 
 
 ```lua
